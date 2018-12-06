@@ -1,0 +1,19 @@
+Good article talking about improving RBM with physical chemistry:
+	https://calculatedcontent.com/2016/10/21/improving-rbms-with-physical-chemistry/
+	https://www.cs.toronto.edu/~hinton/absps/guideTR.pdf
+
+
+Repositories with implementations of RBM:
+	https://github.com/echen/restricted-boltzmann-machines
+	https://github.com/GabrielBianconi/pytorch-rbm
+	https://github.com/monsta-hd/boltzmann-machines
+	https://github.com/meownoid/tensorfow-rbm
+
+Information about implementations of RBM:
+	http://danshiebler.com/2016-08-10-musical-tensorflow-part-one-the-rbm/
+	http://danshiebler.com/2016-08-10-musical-tensorflow-part-one-the-rbm/
+	
+Papers that can be usefull to develop new things:
+	https://arxiv.org/pdf/1503.03585.pdf 
+
+

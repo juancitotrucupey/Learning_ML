@@ -1,0 +1,6 @@
+model_checkpoint_path: "RBM_LT_v3-80002"
+all_model_checkpoint_paths: "RBM_LT_v3-72002"
+all_model_checkpoint_paths: "RBM_LT_v3-74002"
+all_model_checkpoint_paths: "RBM_LT_v3-76002"
+all_model_checkpoint_paths: "RBM_LT_v3-78002"
+all_model_checkpoint_paths: "RBM_LT_v3-80002"
